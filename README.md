@@ -1,2 +1,2 @@
-# badoo-encounter-auto-like
+# badoo-bot-auto-like
 Bot para a página de "Encontros" do Badoo, jogue o codigo no console e seja feliz ou não...
